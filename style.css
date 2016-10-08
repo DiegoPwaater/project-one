@@ -3,7 +3,9 @@ h1 {
   color: D73A18;
   font-style: italic;
 }
-
+hr {
+  color:red;
+}
 a {
   font-family: sans-serif;
   color: 2118D7;
